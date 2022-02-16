@@ -1,0 +1,22 @@
+# NetBeans #
+############
+*/nbproject/private/*
+*/build/*
+*/dist/*
+*/target/*
+*nbactions.xml*
+
+# Eclipse #
+###########
+.project
+.classpath
+.settings/
+/cpad_companion/.settings/
+/oec2Interface/target/
+
+### IntelliJ Idea ###
+*.iml
+*.ipr
+*.iws
+.idea/
+target
